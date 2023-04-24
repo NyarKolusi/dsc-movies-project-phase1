@@ -56,7 +56,7 @@ The data analysed are movie datasets from:
 
 
 ### Limitations
-1.**Missing data**: There were instances where some of the data was missing or incomplete. This limited the analysis as some of the key variables were not available for analysis.
+1. **Missing data**: There were instances where some of the data was missing or incomplete. This limited the analysis as some of the key variables were not available for analysis.
 
 2. **Limited scope:** The analysis was limited to a specific data points like genres, which may not be representative of the entire movie industry. This limited the generalizability of the findings to other contexts.
 
